@@ -72,7 +72,7 @@ This integration is **ONLY** for bikes using the **Bosch eBike Flow** system (Ge
 
 ### Compatible Bosch Systems (Gen 4 / Gen 5)
 
-This integration **ONLY** works with Gen 4/Gen 5 Bosch systems using the Flow app:
+This integration **ONLY** works with Gen 4 / Gen 5 Bosch systems using the Flow app:
 
 - ✅ Performance Line CX (Gen 4 / Gen 5)
 - ✅ Bosch Performance Line SX (Gen 5)
